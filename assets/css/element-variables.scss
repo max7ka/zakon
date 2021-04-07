@@ -1,0 +1,16 @@
+/* theme color */
+$--color-primary: #409EFF !default;
+$--color-success: #67c23a !default;
+$--color-warning: #e6a23c !default;
+$--color-danger: green !default;
+$--color-info: #909399 !default;
+
+@import "~element-ui/packages/theme-chalk/src/index";
+
+.el-tree-node__content{
+    height: auto !important;
+}
+
+.el-tree-node{
+     white-space: wrap !important;
+}

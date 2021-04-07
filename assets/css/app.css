@@ -1,0 +1,17 @@
+body {
+    background-color: #f2f1f0;
+}
+
+.el-tree-node__content{
+    height: auto;
+}
+.el-tree-node {
+    white-space: normal;
+    /*width: 200px;*/
+}
+
+/*.wraptext{
+    background: #f0f0f0;
+    width: 100px;
+    word-wrap: break-word;
+}*/
